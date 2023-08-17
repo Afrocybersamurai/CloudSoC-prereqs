@@ -321,4 +321,4 @@ Dave is now able to view the resource group and create further resources in the 
 
 That concludes the three-part labs series. Well done.
 
-On our next set of [labs](https://github.com/fnabeel/Logging-and-Monitoring), we will go over Logging and Monitoring. 
+On our next set of [labs](https://github.com/Afrocybersamurai/SOC-Logging-and-Monitoring/tree/main), we will go over Logging and Monitoring. 
